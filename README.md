@@ -2,5 +2,5 @@
 - 👀 I’m interested in full-stack web development, open-source projects, and building creative digital solutions.  
 - 🌱 I’m currently learning advanced JavaScript frameworks like Next.js and improving my backend skills with Node.js and MongoDB.  
 - 💞️ I’m looking to collaborate on impactful open-source projects, especially those that promote education, accessibility, or community tools.  
-- 📫 How to reach me: You can connect with me via [LinkedIn] (https://www.linkedin.com/in/mahmoud-shaheen-99179787/) or email me at mahmoud.shahin314@gmail.com.  
-- 🌐 Portfolio: [https://dotwebagency.net]
+- 📫 How to reach me: You can connect with me via LinkedIn (https://www.linkedin.com/in/mahmoud-shaheen-99179787/) or email me at mahmoud.shahin314@gmail.com.  
+- 🌐 Portfolio: https://dotwebagency.net
